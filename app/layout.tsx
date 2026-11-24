@@ -3,7 +3,7 @@ import '@fontsource-variable/dm-sans';
 import '@fontsource-variable/manrope';
 import './globals.css';
 import { SiteFooter, SiteHeader } from '@/components/site-shell';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
   title: { default: 'Freebase — Find good things for free', template: '%s · Freebase' },
@@ -23,6 +23,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <SiteHeader />
         <main id="main-content" tabIndex={-1}>{children}</main>
         <SiteFooter />
+        <Analytics />
       </body>
     </html>
   );
