@@ -3,6 +3,7 @@ import '@fontsource-variable/dm-sans';
 import '@fontsource-variable/manrope';
 import './globals.css';
 import { SiteFooter, SiteHeader } from '@/components/site-shell';
+import { Analytics } from "@vercel/analytics/next"
 
 export const metadata: Metadata = {
   title: { default: 'Freebase — Find good things for free', template: '%s · Freebase' },
