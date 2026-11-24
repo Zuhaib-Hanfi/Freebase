@@ -1,0 +1,2589 @@
+[
+  {
+    "name": "Harvard CS50P",
+    "url": "https://cs50.harvard.edu/python/",
+    "description": "Learn Python through ten units of lectures, problem sets, and a final project.",
+    "categories": [
+      "Education and learning",
+      "Programming practice",
+      "Certificates and badges"
+    ],
+    "access": "free-access",
+    "tags": [
+      "python",
+      "beginner",
+      "coding",
+      "exercises",
+      "certificate"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://cs50.harvard.edu/python/faqs/",
+    "bestFor": "A structured first Python course with hands-on assignments.",
+    "free": "Open course materials and a CS50 course certificate after meeting the requirements.",
+    "limitation": "The optional verified edX certificate is a separate paid credential.",
+    "level": "Beginner",
+    "language": [
+      "English"
+    ],
+    "freeCertificate": true
+  },
+  {
+    "name": "Python for Everybody",
+    "url": "https://www.py4e.com/",
+    "description": "Learn Python for working with files, web data, and databases.",
+    "categories": [
+      "Education and learning",
+      "Programming practice"
+    ],
+    "access": "free-access",
+    "tags": [
+      "python",
+      "beginner",
+      "data",
+      "exercises",
+      "book"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.py4e.com/",
+    "bestFor": "Beginners interested in practical data tasks.",
+    "free": "The course site offers lessons, a textbook, and assignments.",
+    "limitation": "Sign in for the gradebook and autograded assignments. External course platforms have separate terms.",
+    "level": "Beginner",
+    "language": [
+      "English"
+    ]
+  },
+  {
+    "name": "Python Programming MOOC",
+    "url": "https://programming-26.mooc.fi/",
+    "description": "Work through the University of Helsinki introductory and advanced Python courses.",
+    "categories": [
+      "Education and learning",
+      "Programming practice"
+    ],
+    "access": "free-access",
+    "tags": [
+      "python",
+      "beginner",
+      "exercises",
+      "university",
+      "programming"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://programming-26.mooc.fi/",
+    "bestFor": "Learners who prefer lots of coding exercises.",
+    "free": "Public course material for both courses.",
+    "limitation": "The 2026 edition closes at year-end. Passing requires exercises and an exam.",
+    "level": "Beginner",
+    "language": [
+      "English"
+    ]
+  },
+  {
+    "name": "The Python Tutorial",
+    "url": "https://docs.python.org/3/tutorial/",
+    "description": "Use the official introduction to Python syntax, modules, and core data structures.",
+    "categories": [
+      "Education and learning",
+      "Programming practice"
+    ],
+    "access": "free-access",
+    "tags": [
+      "python",
+      "documentation",
+      "reference",
+      "programming"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://docs.python.org/3/tutorial/",
+    "bestFor": "Programmers picking up Python as a new language.",
+    "free": "Public documentation and self-contained examples.",
+    "limitation": "The tutorial assumes some prior programming experience.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "language": [
+      "English"
+    ]
+  },
+  {
+    "name": "Automate the Boring Stuff with Python",
+    "url": "https://automatetheboringstuff.com/",
+    "description": "Read Al Sweigart’s practical Python book and automate everyday computer tasks.",
+    "categories": [
+      "Education and learning",
+      "Books and audiobooks"
+    ],
+    "access": "free-access",
+    "tags": [
+      "python",
+      "automation",
+      "beginner",
+      "books",
+      "spreadsheet"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://automatetheboringstuff.com/",
+    "bestFor": "Beginners who want projects involving files and spreadsheets.",
+    "free": "The book is free to read on the author’s site.",
+    "limitation": "Printed copies and some companion products are separate.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "level": "Beginner",
+    "language": [
+      "English"
+    ]
+  },
+  {
+    "name": "Exercism Python Track",
+    "url": "https://exercism.org/tracks/python",
+    "description": "Practice Python with a progression of exercises and automated feedback.",
+    "categories": [
+      "Programming practice",
+      "Education and learning"
+    ],
+    "access": "free-access",
+    "tags": [
+      "python",
+      "exercises",
+      "mentoring",
+      "programming"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://exercism.org/tracks/python",
+    "bestFor": "Building fluency after learning basic Python syntax.",
+    "free": "The Python track includes free exercises, feedback, and mentoring.",
+    "limitation": "Sign up to join the track and track progress.",
+    "accountRequired": true,
+    "cardRequired": false
+  },
+  {
+    "name": "MIT OpenCourseWare",
+    "url": "https://ocw.mit.edu",
+    "description": "Explore materials from MIT courses at your own pace.",
+    "categories": [
+      "Education and learning"
+    ],
+    "access": "free-access",
+    "tags": [
+      "university",
+      "lectures",
+      "course",
+      "self-study"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://ocw.mit.edu/about/",
+    "bestFor": "Self-study with university-level lecture notes and assignments.",
+    "free": "Published MIT course materials are freely available without registration.",
+    "limitation": "Materials vary by course. MIT OpenCourseWare provides no degree, credit, or certificate.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "freeCertificate": false,
+    "language": [
+      "English"
+    ]
+  },
+  {
+    "name": "OpenLearn",
+    "url": "https://open.edu/openlearn",
+    "description": "Take self-paced introductory courses from The Open University.",
+    "categories": [
+      "Education and learning",
+      "Certificates and badges"
+    ],
+    "access": "free-access",
+    "tags": [
+      "university",
+      "course",
+      "self-study",
+      "badges"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.open.edu/openlearn/get-started",
+    "bestFor": "Exploring a new subject with a short course before committing to formal study.",
+    "free": "OpenLearn courses are free to study, and selected courses offer digital badges.",
+    "limitation": "Register for participation records and badges. Availability varies by course.",
+    "language": [
+      "English"
+    ]
+  },
+  {
+    "name": "GitHub Pages",
+    "url": "https://pages.github.com",
+    "description": "Publish a static portfolio or project site directly from a GitHub repository.",
+    "categories": [
+      "Website hosting"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "portfolio",
+      "static site",
+      "hosting",
+      "git",
+      "documentation"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits",
+    "bestFor": "A personal portfolio, documentation site, or demo.",
+    "free": "GitHub Free includes Pages from public repositories. You can create a free personal account and verify your email without setting up billing.",
+    "limitation": "GitHub restricts online businesses, e-commerce, and commercial SaaS on Pages.",
+    "accountRequired": true,
+    "cardRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Cloudflare Pages",
+    "url": "https://pages.cloudflare.com",
+    "description": "Deploy a static site from a Git repository or upload your build directly.",
+    "categories": [
+      "Website hosting"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "portfolio",
+      "static site",
+      "hosting",
+      "git",
+      "frontend"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://developers.cloudflare.com/pages/platform/limits/",
+    "bestFor": "A static portfolio or project site that you update from Git.",
+    "free": "The Free plan includes static deployments with up to 500 builds per month.",
+    "limitation": "The documented Pages build and file limits still apply. Functions have separate Workers quotas.",
+    "accountRequired": true,
+    "customDomain": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Carrd",
+    "url": "https://carrd.co",
+    "description": "Build a responsive one-page portfolio, profile, or landing page without code.",
+    "categories": [
+      "Website hosting"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "portfolio",
+      "website builder",
+      "landing page",
+      "no code"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://carrd.com/",
+    "bestFor": "Publishing a simple site quickly from a template.",
+    "free": "Create up to three basic sites per free account.",
+    "limitation": "Custom domains and forms require a Pro plan.",
+    "accountRequired": true,
+    "customDomain": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Codeberg Pages",
+    "url": "https://codeberg.page/",
+    "description": "Publish a static site from a repository on the Codeberg nonprofit forge.",
+    "categories": [
+      "Website hosting"
+    ],
+    "access": "free-access",
+    "tags": [
+      "portfolio",
+      "hosting",
+      "git",
+      "static site",
+      "open source"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://codeberg.page/",
+    "bestFor": "Open source project pages, developer blogs, and web experiments.",
+    "free": "Codeberg Pages hosts static sites for free.",
+    "limitation": "Set up a Codeberg repository. Static-site generation or deployment automation takes additional configuration.",
+    "accountRequired": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "GitLab Pages",
+    "url": "https://docs.gitlab.com/user/project/pages",
+    "description": "Publish static project sites using GitLab CI/CD.",
+    "categories": [
+      "Website hosting"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "portfolio",
+      "static site",
+      "hosting",
+      "git",
+      "ci"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://docs.gitlab.com/user/project/pages/",
+    "bestFor": "A portfolio or docs site for code already hosted on GitLab.",
+    "free": "Pages is included in GitLab’s Free tier.",
+    "limitation": "Requires a GitLab CI/CD pipeline. Dynamic server-side processing is outside the Pages model.",
+    "accountRequired": true,
+    "customDomain": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Neocities",
+    "url": "https://neocities.org",
+    "description": "Build a hand-coded personal website in your browser and publish it on a Neocities subdomain.",
+    "categories": [
+      "Website hosting"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "portfolio",
+      "personal site",
+      "static site",
+      "html",
+      "hosting"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://neocities.org/supporter",
+    "bestFor": "Learning HTML or making a small personal site.",
+    "free": "A free static site with a browser-based HTML editor.",
+    "limitation": "Custom domains and higher limits come with a paid Supporter plan.",
+    "accountRequired": true,
+    "customDomain": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com",
+    "description": "Deploy personal frontend projects with Vercel’s Hobby plan.",
+    "categories": [
+      "Website hosting"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "portfolio",
+      "frontend",
+      "hosting",
+      "nextjs",
+      "deploy"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://vercel.com/docs/limits/fair-use-guidelines",
+    "bestFor": "A personal portfolio or non-commercial frontend application.",
+    "free": "The Hobby tier includes deployments with monthly usage allowances.",
+    "limitation": "Hobby is for personal, non-commercial use. Usage limits reset on the plan’s schedule.",
+    "commercialUse": false,
+    "accountRequired": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "PDF24",
+    "url": "https://tools.pdf24.org",
+    "description": "Compress, merge, split, and convert PDFs with a browser tool for each task.",
+    "categories": [
+      "PDF and documents"
+    ],
+    "access": "free-access",
+    "tags": [
+      "pdf",
+      "compress pdf",
+      "merge pdf",
+      "split pdf",
+      "convert documents"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://tools.pdf24.org/en/install-app",
+    "bestFor": "One-off PDF edits, conversions, and smaller files.",
+    "free": "Use the browser tools for free without an account. A separate free Creator app is available for Windows.",
+    "limitation": "Many browser tools upload files for processing. Use the desktop Creator for local processing on Windows.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "PDFsam Basic",
+    "url": "https://pdfsam.org/pdfsam-basic/",
+    "description": "Merge, split, rotate, and extract PDF pages locally on your computer.",
+    "categories": [
+      "PDF and documents"
+    ],
+    "access": "open-source",
+    "tags": [
+      "pdf",
+      "merge pdf",
+      "split pdf",
+      "rotate pdf",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://pdfsam.org/pdfsam-basic/",
+    "bestFor": "Rearranging or combining sensitive documents offline.",
+    "free": "The free desktop app handles page operations without watermarks.",
+    "limitation": "Basic focuses on page operations. Visual editing is a separate product.",
+    "replacesUrl": "https://pdfsam.org",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "name": "NAPS2",
+    "url": "https://www.naps2.com/",
+    "description": "Scan paper documents, reorder pages, and create searchable PDFs.",
+    "categories": [
+      "PDF and documents"
+    ],
+    "access": "open-source",
+    "tags": [
+      "pdf",
+      "scanner",
+      "ocr",
+      "searchable pdf",
+      "offline",
+      "documents"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.naps2.com/",
+    "bestFor": "Turning physical paperwork into searchable digital files.",
+    "free": "Free scanning and OCR software for Windows, macOS, and Linux.",
+    "limitation": "Scanning requires a compatible device and drivers. OCR quality depends on the scan.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "name": "OCRmyPDF",
+    "url": "https://ocrmypdf.readthedocs.io/en/latest/",
+    "description": "Add a searchable text layer to a scanned PDF with a local command-line tool.",
+    "categories": [
+      "PDF and documents"
+    ],
+    "access": "open-source",
+    "tags": [
+      "pdf",
+      "ocr",
+      "searchable pdf",
+      "offline",
+      "terminal",
+      "documents"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://ocrmypdf.readthedocs.io/en/latest/introduction.html",
+    "bestFor": "Batch processing scanned files and making text selectable.",
+    "free": "The project provides a free Python application and library.",
+    "limitation": "Installation requires command-line tools and dependencies. OCR can misread poor scans.",
+    "worksOffline": true,
+    "license": "MPL-2.0"
+  },
+  {
+    "name": "PDFtk Free",
+    "url": "https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/",
+    "description": "Merge or split PDF pages in a simple Windows desktop interface.",
+    "categories": [
+      "PDF and documents"
+    ],
+    "access": "free-access",
+    "tags": [
+      "pdf",
+      "merge pdf",
+      "split pdf",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/",
+    "bestFor": "Light PDF page management without uploading files.",
+    "free": "The free edition includes the graphical tool and PDFtk Server command-line utility.",
+    "limitation": "PDFtk Free is for Windows and advanced features are in the Pro edition.",
+    "worksOffline": true,
+    "platform": [
+      "Windows"
+    ]
+  },
+  {
+    "name": "LibreOffice",
+    "url": "https://libreoffice.org",
+    "description": "Write documents, edit spreadsheets, and export office files to PDF on your computer.",
+    "categories": [
+      "Productivity and office",
+      "PDF and documents"
+    ],
+    "access": "open-source",
+    "tags": [
+      "office",
+      "spreadsheet",
+      "pdf",
+      "documents",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.libreoffice.org/",
+    "bestFor": "Offline office work and file conversion without a subscription.",
+    "free": "Writer, Calc, Impress, Draw, and other office tools are free.",
+    "limitation": "Complex Microsoft Office layouts may need a check after conversion.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Stirling PDF",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "description": "Run a private PDF toolkit for merging, conversion, and document processing.",
+    "categories": [
+      "PDF and documents"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "pdf",
+      "compress pdf",
+      "merge pdf",
+      "offline",
+      "self-hosted"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://docs.stirlingpdf.com/Server/Licensing/Plans-and-Licences/",
+    "bestFor": "People comfortable self-hosting a PDF tool for private files.",
+    "free": "The self-hosted server starts on a Free plan.",
+    "limitation": "Self-hosting requires setup. Team and Enterprise features have separate licenses.",
+    "openSource": true
+  },
+  {
+    "name": "Openverse",
+    "url": "https://openverse.org",
+    "description": "Search openly licensed and public-domain images and audio from many collections.",
+    "categories": [
+      "Stock media"
+    ],
+    "access": "free-access",
+    "tags": [
+      "images",
+      "photos",
+      "illustrations",
+      "audio",
+      "open license",
+      "public domain"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://make.wordpress.org/openverse/welcome/",
+    "bestFor": "Finding reusable media across multiple archives in one search.",
+    "free": "The search engine is free to use, with license and source filters.",
+    "limitation": "Check the original item page before reuse. Attribution and adaptation terms vary by file.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org",
+    "description": "Find freely licensed and public-domain photos, illustrations, and audiovisual files.",
+    "categories": [
+      "Stock media"
+    ],
+    "access": "free-access",
+    "tags": [
+      "images",
+      "photos",
+      "history",
+      "public domain",
+      "creative commons"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia",
+    "bestFor": "Sourcing historical images, maps, and educational media.",
+    "free": "Public file pages and downloads provide access to the media and licensing details.",
+    "limitation": "Each file has its own terms. Some require credit, notice, or sharing adaptations under the same license.",
+    "license": "Varies by file",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "The Met",
+    "url": "https://metmuseum.org/art/collection",
+    "description": "Find open-access images of public-domain artworks in The Met collection.",
+    "categories": [
+      "Stock media"
+    ],
+    "access": "free-access",
+    "tags": [
+      "images",
+      "museum",
+      "art",
+      "public domain",
+      "cc0",
+      "commercial use"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.metmuseum.org/hubs/open-access",
+    "bestFor": "Art, history, and design projects that need reusable museum images.",
+    "free": "Download art marked Open Access under the CC0 dedication.",
+    "limitation": "Use the Open Access filter or badge. Other collection images have different terms.",
+    "license": "CC0 for eligible images",
+    "commercialUse": true,
+    "attributionRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Art Institute of Chicago",
+    "url": "https://artic.edu/collection",
+    "description": "Browse a museum collection with downloadable images of public-domain works.",
+    "categories": [
+      "Stock media"
+    ],
+    "access": "free-access",
+    "tags": [
+      "images",
+      "museum",
+      "art",
+      "public domain",
+      "cc0",
+      "commercial use"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://api.artic.edu/docs/",
+    "bestFor": "Reusing historical artwork and design references.",
+    "free": "Marked public-domain artworks are available for free reuse.",
+    "limitation": "Open the artwork’s details and verify its rights designation. Other items can remain protected.",
+    "license": "CC0 for eligible images",
+    "commercialUse": true,
+    "attributionRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Smithsonian Open Access",
+    "url": "https://si.edu/openaccess",
+    "description": "Explore and download Smithsonian open-access images, data, and 3D models.",
+    "categories": [
+      "Stock media",
+      "Virtual exploration"
+    ],
+    "access": "free-access",
+    "tags": [
+      "images",
+      "museum",
+      "public domain",
+      "cc0",
+      "commercial use",
+      "3d"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.si.edu/openaccess/faq",
+    "bestFor": "Projects that need original museum materials or 3D assets.",
+    "free": "Items marked CC0 can be downloaded, adapted, and shared.",
+    "limitation": "Check the CC0 label and any third-party rights that apply to the intended use.",
+    "license": "CC0 for eligible assets",
+    "commercialUse": true,
+    "attributionRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "description": "Find stock photography for presentations, editorial projects, and websites.",
+    "categories": [
+      "Stock media"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "images",
+      "photography",
+      "stock photos",
+      "commercial use",
+      "attribution"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://unsplash.com/license",
+    "bestFor": "Expressive stock photos for digital layouts and posts.",
+    "free": "Photos under the Unsplash License allow commercial use without mandatory attribution.",
+    "limitation": "Unsplash+ has separate terms. The free license restricts selling unmodified photos and competing collections.",
+    "license": "Unsplash License for covered photos",
+    "commercialUse": true,
+    "attributionRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Pexels",
+    "url": "https://pexels.com",
+    "description": "Download stock photos and video clips under the Pexels License.",
+    "categories": [
+      "Stock media"
+    ],
+    "access": "free-access",
+    "tags": [
+      "images",
+      "photography",
+      "stock video",
+      "commercial use",
+      "attribution"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.pexels.com/license/",
+    "bestFor": "Quick stock footage and photography for creative projects.",
+    "free": "Pexels photos and videos can be used without mandatory attribution.",
+    "limitation": "The license restricts unchanged resale, misleading endorsement, and some uses of identifiable people.",
+    "license": "Pexels License",
+    "commercialUse": true,
+    "attributionRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "description": "Search stock images, video, and audio under the Pixabay Content License.",
+    "categories": [
+      "Stock media"
+    ],
+    "access": "free-access",
+    "tags": [
+      "images",
+      "illustrations",
+      "stock video",
+      "music",
+      "attribution"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://pixabay.com/service/license-summary/",
+    "bestFor": "Media for presentations and edited creative work.",
+    "free": "Covered media can be used for free without mandatory credit.",
+    "limitation": "Standalone redistribution and some brand-related uses are restricted. Check rights for the individual asset.",
+    "license": "Pixabay Content License",
+    "attributionRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "unDraw",
+    "url": "https://undraw.co",
+    "description": "Download customizable SVG illustrations for websites and presentations.",
+    "categories": [
+      "Stock media",
+      "Graphic design"
+    ],
+    "access": "free-access",
+    "tags": [
+      "illustrations",
+      "svg",
+      "images",
+      "commercial use",
+      "attribution"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://undraw.co/license",
+    "bestFor": "Adding consistent illustrations to a product, portfolio, or slide deck.",
+    "free": "Free personal and commercial use without attribution for covered illustrations.",
+    "limitation": "The license restricts repackaging, competing catalogs, integrations, and AI training.",
+    "license": "unDraw License",
+    "commercialUse": true,
+    "attributionRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "GitHub Student Developer Pack",
+    "url": "https://education.github.com/pack",
+    "description": "Apply for GitHub Education and browse software, learning, and infrastructure partner offers.",
+    "categories": [
+      "Student benefits",
+      "Developer tools"
+    ],
+    "access": "eligibility",
+    "tags": [
+      "student",
+      "developer tools",
+      "education",
+      "scholarship",
+      "benefits"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://education.github.com/pack",
+    "bestFor": "Students building and deploying software projects.",
+    "free": "Accepted students can claim the available GitHub and partner benefits.",
+    "limitation": "Student verification is required. Individual offers have separate eligibility, limits, and duration.",
+    "accountRequired": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "JetBrains Education",
+    "url": "https://jetbrains.com/community/education",
+    "description": "Apply for educational access to JetBrains development environments.",
+    "categories": [
+      "Student benefits",
+      "Developer tools"
+    ],
+    "access": "eligibility",
+    "tags": [
+      "student",
+      "ide",
+      "intellij",
+      "pycharm",
+      "education",
+      "developer tools"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.jetbrains.com/academy/student-pack/?var=1",
+    "bestFor": "Eligible students learning to code in tools such as IntelliJ IDEA and PyCharm.",
+    "free": "The Student Pack includes free student IDE licenses.",
+    "limitation": "Verification is required. The educational licenses are limited to non-commercial learning and research.",
+    "accountRequired": true,
+    "commercialUse": false,
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Autodesk Education",
+    "url": "https://autodesk.com/education/edu-software/overview",
+    "description": "Get educational access to Autodesk software for learning CAD, 3D modeling, and engineering.",
+    "categories": [
+      "Student benefits",
+      "Engineering and simulation"
+    ],
+    "access": "eligibility",
+    "tags": [
+      "student",
+      "education",
+      "cad",
+      "3d",
+      "engineering"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.autodesk.com/education/edu-software/overview",
+    "bestFor": "Eligible students or educators working on class and learning projects.",
+    "free": "Approved users receive renewable, one-year educational access to available software.",
+    "limitation": "Autodesk verifies eligibility. Education access is for educational purposes.",
+    "accountRequired": true,
+    "commercialUse": false
+  },
+  {
+    "name": "Figma Education",
+    "url": "https://figma.com/education",
+    "description": "Apply for free education access to Figma design and collaboration tools.",
+    "categories": [
+      "Student benefits",
+      "Graphic design"
+    ],
+    "access": "eligibility",
+    "tags": [
+      "student",
+      "ui design",
+      "education",
+      "design",
+      "prototyping"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.figma.com/education/",
+    "bestFor": "Eligible students and educators doing design coursework.",
+    "free": "Verified users get free access through Figma for Education.",
+    "limitation": "The application route and eligibility differ between higher education and K–12.",
+    "accountRequired": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Microsoft Education",
+    "url": "https://microsoft.com/education",
+    "description": "Explore Microsoft 365 education options for browser-based documents, spreadsheets, and presentations.",
+    "categories": [
+      "Student benefits",
+      "Productivity and office"
+    ],
+    "access": "eligibility",
+    "tags": [
+      "student",
+      "office",
+      "word",
+      "excel",
+      "powerpoint",
+      "education"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.microsoft.com/en-us/education/students",
+    "bestFor": "Students looking for Word, Excel, and PowerPoint for coursework.",
+    "free": "Microsoft lists free browser access to Word, Excel, and PowerPoint.",
+    "limitation": "Desktop applications and institution-managed features depend on the school or plan.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "National Scholarship Portal",
+    "url": "https://scholarships.gov.in",
+    "description": "Find and apply for supported Indian scholarships through the official National Scholarship Portal.",
+    "categories": [
+      "India government resources",
+      "Student benefits",
+      "Grants and rewards"
+    ],
+    "access": "eligibility",
+    "tags": [
+      "india",
+      "scholarships",
+      "student",
+      "education",
+      "financial aid"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/Citizen_Charter_HE_2025.pdf",
+    "bestFor": "Students in India checking public scholarship schemes and application requirements.",
+    "free": "The portal provides access to scholarship applications and scheme information.",
+    "limitation": "Criteria, deadlines, documents, and award amounts depend on the scheme. Applications require registration.",
+    "region": "India",
+    "accountRequired": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "SWAYAM",
+    "url": "https://swayam.gov.in",
+    "description": "Study online courses from Indian universities and education bodies.",
+    "categories": [
+      "Education and learning",
+      "India government resources"
+    ],
+    "access": "free-access",
+    "tags": [
+      "india",
+      "courses",
+      "student",
+      "university",
+      "education",
+      "certificate"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://swayam.gov.in/about",
+    "bestFor": "Learners who want Indian course materials across school and higher education subjects.",
+    "free": "Course materials and learning are available free of charge.",
+    "limitation": "A SWAYAM certificate usually requires a paid, in-person proctored exam and course-specific eligibility.",
+    "freeCertificate": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "National Career Service",
+    "url": "https://ncs.gov.in",
+    "description": "Use India’s public employment portal to look for jobs, events, and career services.",
+    "categories": [
+      "Career and jobs",
+      "India government resources"
+    ],
+    "access": "free-access",
+    "tags": [
+      "india",
+      "jobs",
+      "career",
+      "government",
+      "job search"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://ncs.gov.in/",
+    "bestFor": "Job seekers exploring openings and career support in India.",
+    "free": "The portal says it charges no fee for registration, applications, or interview processing.",
+    "limitation": "An account is needed for application features. Individual roles have their own requirements.",
+    "region": "India",
+    "accountRequired": true,
+    "cardRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Reactive Resume",
+    "url": "https://rxresu.me",
+    "description": "Build a résumé in the browser and export it for a job application.",
+    "categories": [
+      "Career and jobs",
+      "Templates"
+    ],
+    "access": "open-source",
+    "tags": [
+      "resume",
+      "cv",
+      "resume builder",
+      "templates",
+      "job search",
+      "pdf"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://rxresu.me/",
+    "bestFor": "Creating and maintaining a résumé with a dedicated web editor.",
+    "free": "Use free templates and export to PDF or Word.",
+    "limitation": "Create an account on the hosted service or set up your own instance.",
+    "accountRequired": true,
+    "cardRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Europass",
+    "url": "https://europass.europa.eu",
+    "description": "Create a Europass CV for work or study applications in Europe.",
+    "categories": [
+      "Career and jobs",
+      "Templates"
+    ],
+    "access": "free-access",
+    "tags": [
+      "resume",
+      "cv",
+      "resume builder",
+      "europe",
+      "cover letter",
+      "job search"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://europass.europa.eu/en/about-europass",
+    "bestFor": "Applicants who want a multilingual European Commission CV format.",
+    "free": "Use the free Europass CV and cover letter tools.",
+    "limitation": "The templates follow Europass conventions. Check any format requested by the organization.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "RenderCV",
+    "url": "https://github.com/rendercv/rendercv",
+    "description": "Turn a structured YAML file into a styled résumé or academic CV.",
+    "categories": [
+      "Career and jobs",
+      "Templates"
+    ],
+    "access": "open-source",
+    "tags": [
+      "resume",
+      "cv",
+      "templates",
+      "pdf",
+      "yaml",
+      "terminal"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://github.com/rendercv/rendercv",
+    "bestFor": "People who want version control and repeatable PDF builds for their CV.",
+    "free": "The free command-line tool supports template-based PDF rendering.",
+    "limitation": "The local tool requires Python and configuration in YAML.",
+    "license": "MIT",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true
+  },
+  {
+    "name": "Canva Résumé Templates",
+    "url": "https://www.canva.com/resumes/templates/",
+    "description": "Customize a résumé template in Canva’s browser editor.",
+    "categories": [
+      "Career and jobs",
+      "Templates"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "resume",
+      "cv",
+      "templates",
+      "career",
+      "design",
+      "pdf"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.canva.com/resumes/templates/",
+    "bestFor": "Creating a designed résumé quickly using a visual editor.",
+    "free": "Free templates can be customized and downloaded in formats including PDF.",
+    "limitation": "Choose a free template and check any Pro assets before exporting.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Harvard College Résumé and Cover Letter Guide",
+    "url": "https://careerservices.fas.harvard.edu/resources/harvard-college-guide-to-resumes-cover-letters/",
+    "description": "Use Harvard’s career guide to structure your résumé and write experience bullets.",
+    "categories": [
+      "Career and jobs",
+      "Templates"
+    ],
+    "access": "free-access",
+    "tags": [
+      "resume",
+      "cv",
+      "cover letter",
+      "career",
+      "writing",
+      "examples"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://careerservices.fas.harvard.edu/resources/harvard-college-guide-to-resumes-cover-letters/",
+    "bestFor": "Writing or revising an early-career résumé and cover letter.",
+    "free": "The public guide provides guidance and examples.",
+    "limitation": "Examples are oriented toward Harvard College students. Adapt them to your experience and market.",
+    "language": [
+      "English"
+    ],
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Jekyll Résumé Template",
+    "url": "https://github.com/jglovier/resume-template",
+    "description": "Publish a text-first résumé website with a Jekyll template for GitHub Pages.",
+    "categories": [
+      "Career and jobs",
+      "Templates",
+      "Website hosting"
+    ],
+    "access": "open-source",
+    "tags": [
+      "resume",
+      "cv",
+      "portfolio",
+      "github pages",
+      "jekyll",
+      "templates"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://github.com/jglovier/resume-template",
+    "bestFor": "Creating a simple public online résumé from a Git repository.",
+    "free": "The template source is freely available under the MIT license.",
+    "limitation": "Requires editing repository content and configuring GitHub Pages.",
+    "license": "MIT",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Squoosh",
+    "url": "https://squoosh.app",
+    "description": "Compress or convert images locally in your browser with a side-by-side preview.",
+    "categories": [
+      "Graphic design",
+      "Operating systems and utilities"
+    ],
+    "access": "open-source",
+    "tags": [
+      "compress image",
+      "convert image",
+      "optimization",
+      "webp",
+      "avif",
+      "local"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://github.com/GoogleChromeLabs/squoosh",
+    "bestFor": "Reducing image file size before publishing a site or sharing a file.",
+    "free": "Use the free browser editor to compare codecs and quality settings.",
+    "limitation": "Images stay on your device. The app collects some usage data, including before-and-after image sizes.",
+    "license": "Apache-2.0",
+    "accountRequired": false,
+    "cardRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "WebAIM WAVE",
+    "url": "https://wave.webaim.org/",
+    "description": "Check an individual webpage for common accessibility issues and review the results visually.",
+    "categories": [
+      "Developer tools",
+      "Graphic design"
+    ],
+    "access": "free-access",
+    "tags": [
+      "accessibility",
+      "a11y",
+      "web",
+      "testing",
+      "contrast",
+      "browser extension"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://wave.webaim.org/",
+    "bestFor": "A first accessibility review of a public page or a local page using the browser extension.",
+    "free": "The public URL checker and browser extensions are available free.",
+    "limitation": "Automated feedback still needs human evaluation. API access and bulk tooling are separate.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Colour Contrast Analyser",
+    "url": "https://vispero.com/lp/color-contrast-checker/",
+    "description": "Sample colors on screen and test text or visual contrast in a desktop app.",
+    "categories": [
+      "Developer tools",
+      "Graphic design"
+    ],
+    "access": "free-access",
+    "tags": [
+      "accessibility",
+      "a11y",
+      "contrast",
+      "colors",
+      "eyedropper",
+      "design"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://vispero.com/lp/color-contrast-checker/",
+    "bestFor": "Checking contrast in mockups, documents, and interfaces.",
+    "free": "Vispero provides a free desktop contrast checker with an eyedropper.",
+    "limitation": "Contrast testing covers one part of an accessibility review.",
+    "platform": [
+      "Windows",
+      "macOS"
+    ]
+  },
+  {
+    "name": "WebAIM Contrast Checker",
+    "url": "https://webaim.org/resources/contrastchecker/",
+    "description": "Enter text and background colors to calculate contrast and see WCAG pass criteria.",
+    "categories": [
+      "Developer tools",
+      "Graphic design"
+    ],
+    "access": "free-access",
+    "tags": [
+      "accessibility",
+      "a11y",
+      "contrast",
+      "colors",
+      "wcag",
+      "design"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://webaim.org/resources/contrastchecker/",
+    "bestFor": "Checking a design token or color pair without installing anything.",
+    "free": "The web tool calculates contrast from your foreground and background colors.",
+    "limitation": "Gradients, transparency, and complex backgrounds may require multiple checks.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "NVDA",
+    "url": "https://www.nvaccess.org/about-nvda/",
+    "description": "Read applications and websites aloud or with braille using a Windows screen reader.",
+    "categories": [
+      "Operating systems and utilities"
+    ],
+    "access": "open-source",
+    "tags": [
+      "accessibility",
+      "screen reader",
+      "read aloud",
+      "braille",
+      "windows"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.nvaccess.org/about-nvda/",
+    "bestFor": "Accessing Windows applications without relying on visual output.",
+    "free": "NVDA is available free from NV Access.",
+    "limitation": "The screen reader is for Windows. Supported features depend on the application and assistive devices.",
+    "cardRequired": false,
+    "platform": [
+      "Windows"
+    ]
+  },
+  {
+    "name": "Subtitle Edit",
+    "url": "https://github.com/SubtitleEdit/subtitleedit",
+    "description": "Create, synchronize, and convert subtitle files for video.",
+    "categories": [
+      "Video and animation",
+      "Operating systems and utilities"
+    ],
+    "access": "open-source",
+    "tags": [
+      "subtitles",
+      "captions",
+      "accessibility",
+      "video",
+      "srt"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://github.com/SubtitleEdit/subtitleedit",
+    "bestFor": "Editing caption timestamps and preparing subtitle files for publication.",
+    "free": "The open-source project includes a subtitle editor and conversion tools.",
+    "limitation": "Check supported formats and platform setup in the project’s release notes.",
+    "replacesUrl": "https://nikse.dk",
+    "license": "MIT",
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Audacity",
+    "url": "https://audacityteam.org",
+    "description": "Record, trim, and mix audio on your computer.",
+    "categories": [
+      "Music and sound",
+      "Operating systems and utilities"
+    ],
+    "access": "open-source",
+    "tags": [
+      "audio",
+      "podcast",
+      "recording",
+      "sound editing",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.audacityteam.org/",
+    "bestFor": "Editing voice recordings, podcasts, or simple multi-track projects.",
+    "free": "The editor and recorder are free and open source.",
+    "limitation": "Some import and export formats require extra components.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "name": "GIMP",
+    "url": "https://gimp.org",
+    "description": "Retouch photos, work with layers, and create graphics in a desktop editor.",
+    "categories": [
+      "Graphic design"
+    ],
+    "access": "open-source",
+    "tags": [
+      "images",
+      "photo editing",
+      "graphics",
+      "retouch",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.gimp.org/",
+    "bestFor": "Offline raster image editing with detailed controls.",
+    "free": "The full desktop image editor is free and open source.",
+    "limitation": "The editing workflow differs from browser-first design apps. Complex imported files may need adjustments.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "name": "HandBrake",
+    "url": "https://handbrake.fr",
+    "description": "Convert video files and adjust resolution or quality with desktop encoding presets.",
+    "categories": [
+      "Video and animation",
+      "Operating systems and utilities"
+    ],
+    "access": "open-source",
+    "tags": [
+      "video",
+      "compress video",
+      "transcode",
+      "offline",
+      "mp4"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://handbrake.fr/",
+    "bestFor": "Making a smaller sharing copy or converting video to a common format.",
+    "free": "The video transcoder is free and available for major desktop systems.",
+    "limitation": "Encoding time depends on settings and hardware. Check output quality before replacing originals.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Project Gutenberg",
+    "url": "https://gutenberg.org",
+    "description": "Read and download digitized books, with a strong collection of older works.",
+    "categories": [
+      "Books and audiobooks"
+    ],
+    "access": "free-access",
+    "tags": [
+      "ebooks",
+      "books",
+      "public domain",
+      "classic literature",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.gutenberg.org/about/background/free_ebook.html",
+    "bestFor": "Finding a classic text to read or keep offline.",
+    "free": "Most ebooks are free of charge and in the public domain in the United States.",
+    "limitation": "Check item rights and your local copyright rules before redistribution outside the United States.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Standard Ebooks",
+    "url": "https://standardebooks.org",
+    "description": "Download carefully formatted editions of classic public-domain books.",
+    "categories": [
+      "Books and audiobooks"
+    ],
+    "access": "free-access",
+    "tags": [
+      "ebooks",
+      "books",
+      "public domain",
+      "classic literature",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://standardebooks.org/about",
+    "bestFor": "Reading classics on an e-reader with modern typography and navigation.",
+    "free": "Download free editions in e-reader formats. Standard Ebooks dedicates its own work to the public domain.",
+    "limitation": "Selection focuses on the U.S. public domain. Rights in other countries may differ.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "OpenStax",
+    "url": "https://openstax.org",
+    "description": "Read peer-reviewed textbooks for common high-school and college subjects.",
+    "categories": [
+      "Education and learning",
+      "Books and audiobooks"
+    ],
+    "access": "free-access",
+    "tags": [
+      "textbook",
+      "books",
+      "education",
+      "science",
+      "math",
+      "college"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://openstax.org/higher-education",
+    "bestFor": "Following a course without buying a textbook.",
+    "free": "Every OpenStax textbook is free online, with free PDF options.",
+    "limitation": "Physical copies cost money. Check the specific title for course coverage and license.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Zotero",
+    "url": "https://zotero.org",
+    "description": "Collect papers and webpages, annotate PDFs, and generate citations from a desktop library.",
+    "categories": [
+      "Productivity and office",
+      "Research and science"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "citations",
+      "papers",
+      "reference manager",
+      "annotation",
+      "research",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.zotero.org/storage",
+    "bestFor": "Managing references for essays, research, and long writing projects.",
+    "free": "Use the desktop reference manager for free. Online attachment storage starts at 300 MB.",
+    "limitation": "An account is needed for syncing. Larger attachment storage plans are paid.",
+    "openSource": true,
+    "worksOffline": true,
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ]
+  },
+  {
+    "name": "Kiwix",
+    "url": "https://kiwix.org/en/",
+    "description": "Download snapshots of Wikipedia and other learning materials to browse offline.",
+    "categories": [
+      "Education and learning",
+      "Operating systems and utilities"
+    ],
+    "access": "open-source",
+    "tags": [
+      "offline",
+      "wikipedia",
+      "reference",
+      "school",
+      "education",
+      "low bandwidth"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://kiwix.org/en/",
+    "bestFor": "Accessing reference materials with limited or unreliable internet.",
+    "free": "The project offers free knowledge archives and reader software.",
+    "limitation": "Download archives before going offline. Large archives require enough local space and snapshots can become outdated.",
+    "worksOffline": true
+  },
+  {
+    "name": "Language Transfer",
+    "url": "https://languagetransfer.org",
+    "description": "Follow guided audio lessons that teach language patterns through examples.",
+    "categories": [
+      "Language learning",
+      "Education and learning"
+    ],
+    "access": "free-access",
+    "tags": [
+      "languages",
+      "audio",
+      "spanish",
+      "beginner",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.languagetransfer.org/courses",
+    "bestFor": "Starting a language through listening and active recall.",
+    "free": "Stream or download the available free audio courses.",
+    "limitation": "Course depth varies by language. Add reading and conversation practice separately.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "worksOffline": true,
+    "platform": [
+      "Web",
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "name": "OpenStreetMap",
+    "url": "https://openstreetmap.org",
+    "description": "Browse and reuse a global map built by contributors.",
+    "categories": [
+      "Datasets and APIs",
+      "Virtual exploration"
+    ],
+    "access": "free-access",
+    "tags": [
+      "maps",
+      "geography",
+      "datasets",
+      "open data",
+      "geospatial"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.openstreetmap.org/copyright",
+    "bestFor": "Finding open map data for a project or exploring local geography.",
+    "free": "OpenStreetMap data is available under the Open Database License.",
+    "limitation": "Attribute OpenStreetMap and check share-alike requirements. Hosted tiles have separate usage rules.",
+    "license": "ODbL",
+    "attributionRequired": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Anki",
+    "url": "https://apps.ankiweb.net",
+    "description": "Create flashcards that reschedule reviews based on what you remember.",
+    "categories": [
+      "Language learning",
+      "Education and learning"
+    ],
+    "access": "open-source",
+    "tags": [
+      "flashcards",
+      "study",
+      "spaced repetition",
+      "vocabulary",
+      "offline"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://apps.ankiweb.net/",
+    "bestFor": "Long-term review of vocabulary, concepts, and facts.",
+    "free": "The desktop version is free. AnkiDroid is a free Android client.",
+    "limitation": "The official AnkiMobile app for iOS is paid. Creating or choosing useful decks still takes work.",
+    "worksOffline": true,
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android"
+    ]
+  },
+  {
+    "name": "Bootstrap",
+    "url": "https://getbootstrap.com/",
+    "description": "Build responsive pages with a grid, standard interface components, and utilities.",
+    "categories": [
+      "UI components",
+      "Developer tools"
+    ],
+    "access": "open-source",
+    "tags": [
+      "css",
+      "frontend",
+      "design system",
+      "responsive",
+      "components",
+      "web"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://getbootstrap.com/",
+    "bestFor": "Prototyping sites and building interfaces with conventional HTML and CSS.",
+    "free": "The library code is available under the MIT license.",
+    "limitation": "Customize the styles and verify accessibility for your own components and content.",
+    "license": "MIT",
+    "commercialUse": true,
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "W3C Web Accessibility Introduction",
+    "url": "https://www.w3.org/WAI/fundamentals/accessibility-intro/",
+    "description": "Understand how accessible design helps people use websites and web applications.",
+    "categories": [
+      "Education and learning",
+      "Developer tools"
+    ],
+    "access": "free-access",
+    "tags": [
+      "accessibility",
+      "a11y",
+      "wcag",
+      "beginner",
+      "design",
+      "web"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.w3.org/WAI/fundamentals/accessibility-intro/",
+    "bestFor": "Designers and developers learning the basics of accessible interfaces.",
+    "free": "Read the public W3C introduction and follow links to related guidance.",
+    "limitation": "The overview introduces concepts. Detailed testing and implementation use separate guidance.",
+    "accountRequired": false,
+    "cardRequired": false,
+    "level": "Beginner",
+    "language": [
+      "English"
+    ],
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Libby",
+    "url": "https://www.overdrive.com/apps/libby",
+    "description": "Borrow digital books, audiobooks, and magazines from participating libraries.",
+    "categories": [
+      "Books and audiobooks"
+    ],
+    "access": "eligibility",
+    "tags": [
+      "ebooks",
+      "audiobooks",
+      "library",
+      "reading",
+      "books",
+      "magazines"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.overdrive.com/apps/libby",
+    "bestFor": "Readers who already have or can obtain a compatible library card.",
+    "free": "Install the app and borrow available titles for free through your library.",
+    "limitation": "You need a valid card at a participating library. The collection and borrowing limits depend on the library.",
+    "accountRequired": true,
+    "platform": [
+      "Web",
+      "iOS",
+      "Android"
+    ]
+  },
+  {
+    "name": "Simon Tatham’s Portable Puzzle Collection",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/index.html",
+    "description": "Play a library of single-player logic puzzles, including Mines, Net, Bridges, and Sudoku-style games.",
+    "categories": [
+      "Games"
+    ],
+    "access": "open-source",
+    "tags": [
+      "browser game",
+      "logic puzzle",
+      "sudoku",
+      "minesweeper",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/index.html",
+    "bestFor": "A quick solo puzzle with adjustable settings and fresh boards.",
+    "free": "Open any puzzle’s browser version from the game list. Source code and desktop builds are available.",
+    "limitation": "The puzzle interfaces and controls vary. Open a game’s instructions if you are new to it.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false
+  },
+  {
+    "name": "0h h1",
+    "url": "https://0hh1.com/",
+    "description": "Fill a grid with two colors by working out which placements satisfy its rules.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "logic puzzle",
+      "grid",
+      "solo",
+      "no timer"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://0hh1.com/",
+    "bestFor": "A short, untimed logic puzzle with small and larger grids.",
+    "free": "Play generated boards in the browser without creating an account.",
+    "limitation": "The game uses a two-color grid. Check the in-game options if you prefer a different appearance.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false
+  },
+  {
+    "name": "2048 Classic",
+    "url": "https://classic.play2048.co/",
+    "description": "Slide matching tiles together and work up to 2048 in Gabriele Cirulli’s original number puzzle.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "number puzzle",
+      "logic puzzle",
+      "tiles",
+      "solo",
+      "touch"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://classic.play2048.co/",
+    "bestFor": "A quick replayable number puzzle with simple controls.",
+    "free": "Play the original game for free with arrow keys or touch swipes.",
+    "limitation": "Each move shifts the whole board. Filling the grid without a possible move ends the run.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false
+  },
+  {
+    "name": "Waffle",
+    "url": "https://wafflegame.net/daily",
+    "description": "Swap letters on a waffle-shaped grid to complete six intersecting words.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "browser game",
+      "word game",
+      "daily puzzle",
+      "spelling",
+      "solo",
+      "english"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://wafflegame.net/daily",
+    "bestFor": "A short daily English word puzzle.",
+    "free": "Play the daily browser puzzle without creating an account.",
+    "limitation": "Some archive or extra modes use ads or membership features. The current puzzle has a move limit.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false,
+    "language": [
+      "English"
+    ]
+  },
+  {
+    "name": "Travle",
+    "url": "https://travle.earth/",
+    "description": "Name the countries and connections needed to travel from one starting point to another.",
+    "categories": [
+      "Games",
+      "Virtual exploration"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "geography",
+      "daily puzzle",
+      "map",
+      "countries",
+      "route",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://travle.earth/extra_info",
+    "bestFor": "Working out a route across a map with several possible paths.",
+    "free": "Play the daily geography challenge in a browser. Practice is available separately.",
+    "limitation": "The game models some travel connections beyond simple land borders. Yesterday’s daily puzzle may be unavailable.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Globle",
+    "url": "https://globle-game.com/",
+    "description": "Guess a mystery country using warmer and colder hints displayed on a globe.",
+    "categories": [
+      "Games",
+      "Virtual exploration"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "geography",
+      "daily puzzle",
+      "globe",
+      "countries",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://github.com/the-abe-train/globle",
+    "bestFor": "Learning the relative positions of countries through repeated guesses.",
+    "free": "Play the core country guessing puzzle in your browser.",
+    "limitation": "The globe relies on visual color clues. Geographic edge cases follow the game’s own rules.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Worldle",
+    "url": "https://worldle.teuteuf.fr/",
+    "description": "Identify a country or territory from its outline and use distance and direction hints.",
+    "categories": [
+      "Games",
+      "Virtual exploration"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "browser game",
+      "geography",
+      "daily puzzle",
+      "outline",
+      "countries",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://worldle.teuteuf.fr/",
+    "bestFor": "A daily silhouette puzzle for learning country shapes.",
+    "free": "The current daily puzzle is free to play in the browser.",
+    "limitation": "The site shows ads. Archive access and saved cross-device statistics require Premium.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "City Guesser",
+    "url": "https://virtualvacation.us/guess",
+    "description": "Watch real street footage and guess the city from what people, signs, and surroundings reveal.",
+    "categories": [
+      "Games",
+      "Virtual exploration"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "geography",
+      "cities",
+      "street footage",
+      "map",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://virtualvacation.us/guess",
+    "bestFor": "Getting better at identifying places from everyday visual clues.",
+    "free": "Select a region or difficulty and start a browser round.",
+    "limitation": "The rounds rely on visual clues and streamed video.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Seterra",
+    "url": "https://www.geoguessr.com/quiz/seterra",
+    "description": "Practice identifying countries, territories, capitals, and other places on a map.",
+    "categories": [
+      "Games",
+      "Education and learning"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "geography",
+      "map quiz",
+      "countries",
+      "capitals",
+      "school",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.geoguessr.com/quiz/try-seterra",
+    "bestFor": "Learning locations systematically with topic-by-topic quizzes.",
+    "free": "Seterra advertises hundreds of free geography quizzes.",
+    "limitation": "Some quizzes focus on a single region or topic. GeoGuessr’s separate products have different access terms.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "TimeGuessr",
+    "url": "https://timeguessr.com/",
+    "description": "Estimate when and where a photograph was taken using visual and historical clues.",
+    "categories": [
+      "Games",
+      "Virtual exploration"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "geography",
+      "history",
+      "photography",
+      "daily puzzle",
+      "map",
+      "multiplayer"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://timeguessr.com/multiplayer",
+    "bestFor": "Combining history knowledge with map and photo interpretation.",
+    "free": "The browser site offers a daily challenge and free multiplayer games.",
+    "limitation": "The rounds depend on visual cues. An account may be needed for some community features.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "A Dark Room",
+    "url": "https://adarkroom.doublespeakgames.com/",
+    "description": "Start with a fire in a dark room and uncover a story through small choices, exploration, and resource management.",
+    "categories": [
+      "Games",
+      "Interesting websites"
+    ],
+    "access": "open-source",
+    "tags": [
+      "browser game",
+      "text adventure",
+      "story",
+      "resource management",
+      "solo",
+      "indie"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://press.doublespeakgames.com/adr/index.html",
+    "bestFor": "A minimalist text-based adventure that reveals its systems gradually.",
+    "free": "The studio offers the original browser game for free and publishes its source code.",
+    "limitation": "The game deliberately explains little up front. A full playthrough takes longer than a short puzzle.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Celeste Classic",
+    "url": "https://maddymakesgamesinc.itch.io/celesteclassic",
+    "description": "Climb a pixel-art mountain in the original PICO-8 platformer by Maddy Thorson and Noel Berry.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "platformer",
+      "retro",
+      "pixel art",
+      "pico-8",
+      "solo",
+      "indie"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://maddymakesgamesinc.itch.io/celesteclassic",
+    "bestFor": "Practicing precise jumps and dash timing in short stages.",
+    "free": "Play the developers’ original Classic game in the embedded browser player.",
+    "limitation": "The difficulty rises quickly. The full Celeste release is a separate game.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Tetris",
+    "url": "https://play.tetris.com/",
+    "description": "Stack falling shapes into complete lines in the official browser version of Tetris.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "arcade",
+      "retro",
+      "falling blocks",
+      "puzzle",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://tetris.com/play-tetris",
+    "bestFor": "A quick arcade puzzle that rewards planning ahead.",
+    "free": "The official site hosts a free browser game.",
+    "limitation": "The playfield gets faster over time. Check the game’s controls and pause menu before starting.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "PAC-MAN Google Doodle",
+    "url": "https://doodles.google/doodle/30th-anniversary-of-pac-man/",
+    "description": "Guide PAC-MAN through a Google-shaped maze and collect dots while avoiding ghosts.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "arcade",
+      "retro",
+      "maze",
+      "pacman",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://doodles.google/doodle/30th-anniversary-of-pac-man/",
+    "bestFor": "Playing a short anniversary edition of the classic arcade maze game.",
+    "free": "Launch the interactive anniversary Doodle directly on Google’s archive.",
+    "limitation": "The archive hosts the Doodle’s custom maze. The game may play sound when started.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false
+  },
+  {
+    "name": "Doodle Champion Island Games",
+    "url": "https://doodles.google/doodle/doodle-champion-island-games-begin/",
+    "description": "Explore an island as Lucky the cat, take on sports mini-games, and solve side quests.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "arcade",
+      "retro",
+      "sports",
+      "mini games",
+      "adventure",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://doodles.google/doodle/doodle-champion-island-games-begin/",
+    "bestFor": "A longer retro-style browser game with several activities in one world.",
+    "free": "The playable Google Doodle includes seven sports and optional side quests.",
+    "limitation": "Some events need quick timing. The archive preserves the original event theme and team references.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false
+  },
+  {
+    "name": "Universal Paperclips",
+    "url": "https://www.decisionproblem.com/paperclips/index2.html",
+    "description": "Turn a paperclip button into a growing production system in a minimalist incremental game.",
+    "categories": [
+      "Games",
+      "Interesting websites"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "incremental",
+      "idle",
+      "strategy",
+      "simulation",
+      "solo",
+      "desktop"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.decisionproblem.com/paperclips/index2.html",
+    "bestFor": "Exploring how simple upgrades turn into a longer strategy game.",
+    "free": "Play the complete original game using its public web interface.",
+    "limitation": "The developer designed the web interface for computers. The mobile apps are separate.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false
+  },
+  {
+    "name": "Cookie Clicker",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "description": "Bake cookies, purchase upgrades, and build a production system in Orteil’s browser game.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "incremental",
+      "idle",
+      "simulation",
+      "upgrades",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "bestFor": "A low-pressure incremental game that can be played in short visits.",
+    "free": "Play the original web edition at the developer’s site.",
+    "limitation": "The browser page contains sponsored links. Paid editions for other platforms have separate terms.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false
+  },
+  {
+    "name": "Infinite Craft",
+    "url": "https://neal.fun/infinite-craft/",
+    "description": "Drag two elements together and see what new item they create.",
+    "categories": [
+      "Games",
+      "Interesting websites"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "crafting",
+      "sandbox",
+      "creative",
+      "word game",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://neal.fun/privacy-policy/",
+    "bestFor": "Open-ended experimentation with combinations and surprising results.",
+    "free": "The core game is available on Neal Agarwal’s site with four starting elements.",
+    "limitation": "Discoveries and some other features send gameplay data to the site’s servers.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Little Alchemy 2",
+    "url": "https://littlealchemy2.com/",
+    "description": "Combine basic elements and build up a catalog of materials, objects, and inventions.",
+    "categories": [
+      "Games",
+      "Education and learning"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "crafting",
+      "discovery",
+      "sandbox",
+      "creative",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://hints.littlealchemy2.com/",
+    "bestFor": "A relaxed discovery game for trying combinations at your own pace.",
+    "free": "The official browser game offers a large set of free items to discover.",
+    "limitation": "The browser version and mobile versions have separate features. The official hints site can spoil recipes.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Flexbox Froggy",
+    "url": "https://flexboxfroggy.com/",
+    "description": "Write CSS to put frogs on their lilypads while learning flexbox alignment and layout.",
+    "categories": [
+      "Games",
+      "Programming practice"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "css",
+      "frontend",
+      "learning game",
+      "flexbox",
+      "coding",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://codepip.com/games/flexbox-froggy/",
+    "bestFor": "Practicing CSS flexbox in small interactive lessons.",
+    "free": "The full browser game is free, with selectable languages and level instructions.",
+    "limitation": "The lessons focus on flexbox. CSS Grid and other topics have separate games.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false,
+    "level": "Beginner"
+  },
+  {
+    "name": "NASA Explore Mars",
+    "url": "https://spaceplace.nasa.gov/explore-mars/en/",
+    "description": "Drive a rover, collect information about Martian rocks, and send it back to Earth.",
+    "categories": [
+      "Games",
+      "Education and learning"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "science",
+      "space",
+      "mars",
+      "rover",
+      "learning game",
+      "solo"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://spaceplace.nasa.gov/explore-mars/en/",
+    "bestFor": "Introducing children to rover navigation and planetary science.",
+    "free": "NASA Space Place provides the game directly with instructions and mission context.",
+    "limitation": "The game uses a simplified model of rover operation. Audio guidance is available alongside visual elements.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false,
+    "language": [
+      "English",
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Codenames Online",
+    "url": "https://codenames.game/",
+    "description": "Give one-word clues to connect the right words in a team deduction game.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "party game",
+      "board game",
+      "word game",
+      "multiplayer",
+      "team",
+      "private room"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://blog.czechgames.com/2024/09/16/codenames-app-vs-codenames-online-whats-the-difference/",
+    "bestFor": "Remote game night with friends who enjoy word associations.",
+    "free": "Czech Games Edition offers the browser game for free. Create a room and share it with friends.",
+    "limitation": "Plan how the group will talk. The publisher describes using a separate voice or video call.",
+    "platform": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Gartic Phone",
+    "url": "https://garticphone.com/",
+    "description": "Pass sentences and drawings around a group to see how the original idea changes.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "party game",
+      "drawing",
+      "multiplayer",
+      "private room",
+      "creative"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://garticphone.com/",
+    "bestFor": "A casual game night for friends who like drawing and writing prompts.",
+    "free": "Start a browser session with a nickname, then invite friends to your room.",
+    "limitation": "The sessions rely on player-submitted drawings and text. The developer suggests a separate voice call.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false
+  },
+  {
+    "name": "skribbl.io",
+    "url": "https://skribbl.io/",
+    "description": "Take turns drawing a secret word while other players race to guess it.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-access",
+    "tags": [
+      "browser game",
+      "party game",
+      "drawing",
+      "word game",
+      "multiplayer",
+      "private room"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://skribbl.io/",
+    "bestFor": "A fast drawing game with friends or an open lobby.",
+    "free": "The browser game is free, with both public play and private rooms.",
+    "limitation": "Public lobbies include chat and content from strangers. Choose a private room for a known group.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false
+  },
+  {
+    "name": "Board Game Arena",
+    "url": "https://en.boardgamearena.com/",
+    "description": "Join live or turn-based online tables for a collection of licensed board games.",
+    "categories": [
+      "Games"
+    ],
+    "access": "free-tier",
+    "tags": [
+      "browser game",
+      "board game",
+      "turn-based",
+      "strategy",
+      "multiplayer",
+      "game night"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://en.boardgamearena.com/faq",
+    "bestFor": "Playing tabletop games remotely at a pace that suits your group.",
+    "free": "A free account can play many games and join a Premium table started by another player.",
+    "limitation": "An account is required. Starting a table for some games and certain other features require Premium.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": true
+  },
+  {
+    "name": "Lichess",
+    "url": "https://lichess.org",
+    "description": "Play chess, challenge a friend or a computer, and work through tactics puzzles in your browser.",
+    "categories": [
+      "Games"
+    ],
+    "access": "open-source",
+    "tags": [
+      "browser game",
+      "chess",
+      "board game",
+      "strategy",
+      "multiplayer",
+      "logic puzzle",
+      "analysis"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://lichess.org/about",
+    "bestFor": "Playing or studying chess with free puzzles, boards, and analysis.",
+    "free": "Lichess offers free games, puzzles, lessons, and analysis without advertising or paid tiers.",
+    "limitation": "Use an account for ratings, tracked progress, and tournaments.",
+    "platform": [
+      "Web"
+    ],
+    "cardRequired": false
+  },
+  {
+    "name": "PDF24 Creator",
+    "url": "https://tools.pdf24.org/en/creator",
+    "description": "Compress, convert, merge, or print to PDF on your PC with the offline PDF24 desktop app.",
+    "categories": [
+      "PDF and documents",
+      "Operating systems and utilities"
+    ],
+    "access": "free-access",
+    "tags": [
+      "pdf",
+      "offline",
+      "compress pdf",
+      "merge pdf",
+      "local",
+      "documents"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://tools.pdf24.org/en/creator",
+    "bestFor": "Handling sensitive documents locally on Windows.",
+    "free": "The offline toolkit and PDF printer are free for private and business use.",
+    "limitation": "The desktop app requires Windows and a local installation. PDF24’s online tools are a separate option.",
+    "platform": [
+      "Windows"
+    ],
+    "accountRequired": false,
+    "cardRequired": false,
+    "commercialUse": true,
+    "worksOffline": true
+  },
+  {
+    "name": "W3C Easy Checks",
+    "url": "https://www.w3.org/WAI/test-evaluate/preliminary/",
+    "description": "Follow a practical checklist to spot common issues with headings, keyboard access, contrast, and media.",
+    "categories": [
+      "Developer tools",
+      "Education and learning"
+    ],
+    "access": "free-access",
+    "tags": [
+      "accessibility",
+      "a11y",
+      "screen reader",
+      "keyboard",
+      "testing",
+      "wcag"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.w3.org/WAI/test-evaluate/preliminary/",
+    "bestFor": "A first manual accessibility review of a website.",
+    "free": "The W3C guide provides public step-by-step checks with examples and instructions.",
+    "limitation": "These basic checks cover only part of a full accessibility evaluation.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false,
+    "language": [
+      "English"
+    ],
+    "level": "Beginner"
+  },
+  {
+    "name": "ANDI",
+    "url": "https://www.ssa.gov/accessibility/andi/help/install.html",
+    "description": "Inspect accessible names and descriptions and flag common web issues with a browser bookmarklet.",
+    "categories": [
+      "Developer tools"
+    ],
+    "access": "free-access",
+    "tags": [
+      "accessibility",
+      "a11y",
+      "bookmarklet",
+      "accessible name",
+      "testing",
+      "wcag"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://www.ssa.gov/accessibility/andi/help/install.html",
+    "bestFor": "Understanding what assistive technology may announce for interactive controls.",
+    "free": "The U.S. Social Security Administration provides the bookmarklet and documentation for free.",
+    "limitation": "Your browser must allow bookmarklets. Use its findings as one part of a manual review.",
+    "platform": [
+      "Web"
+    ],
+    "accountRequired": false,
+    "cardRequired": false,
+    "language": [
+      "English"
+    ]
+  },
+  {
+    "name": "LosslessCut",
+    "url": "https://github.com/mifi/lossless-cut",
+    "description": "Extract sections from video and audio without re-encoding supported formats.",
+    "categories": [
+      "Video and animation",
+      "Operating systems and utilities"
+    ],
+    "access": "open-source",
+    "tags": [
+      "video",
+      "trim video",
+      "audio",
+      "ffmpeg",
+      "offline",
+      "local"
+    ],
+    "reviewedAt": "2026-11-24",
+    "sourceUrl": "https://github.com/mifi/lossless-cut",
+    "bestFor": "Quickly trimming large recordings while preserving original quality.",
+    "free": "Free releases of the open-source desktop app are available from the project’s repository.",
+    "limitation": "Lossless cuts can depend on codec keyframe positions. Some app stores charge for their builds.",
+    "platform": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "license": "GPL-2.0",
+    "worksOffline": true
+  }
+]

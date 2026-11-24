@@ -1,0 +1,389 @@
+.heading {
+  margin-block: 11px 24px;
+}
+
+.heading h1 {
+  font-size: clamp(2.45rem, 5vw, 4.1rem);
+  font-weight: 800;
+  letter-spacing: -.079em;
+}
+
+.heading p {
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 1.06rem;
+}
+
+.layout {
+  display: grid;
+  max-width: 980px;
+  gap: 20px;
+  grid-template-columns: minmax(0, 1.65fr) minmax(250px, 1fr);
+  align-items: start;
+}
+
+.station,
+.actionArea,
+.instructions {
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--surface);
+}
+
+.stationBar {
+  display: flex;
+  min-height: 54px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 11px 18px;
+  font-size: .9rem;
+  color: var(--muted);
+}
+
+.stationBar > span:first-child {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ink);
+  font-weight: 750;
+}
+
+.stationBar strong {
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.cabinet {
+  --cabinet: #181c1a;
+  --panel: #232925;
+  --board-ink: #b8c2ba;
+  --signal: #dcf58a;
+  padding: 14px 8px 13px;
+  background: var(--cabinet);
+  color: var(--board-ink);
+}
+
+.boardFrame {
+  --rail: clamp(30px, 7vw, 46px);
+  --tile-gap: 3px;
+  display: grid;
+  max-width: 440px;
+  margin-inline: auto;
+  gap: 4px;
+  grid-template-columns: var(--rail) minmax(0, 1fr) var(--rail);
+  grid-template-rows: 38px auto;
+}
+
+.columnAxis,
+.rowAxis,
+.receiverAxis,
+.circuit {
+  display: grid;
+  gap: var(--tile-gap);
+}
+
+.columnAxis {
+  grid-area: 1 / 2;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.rowAxis {
+  grid-area: 2 / 1;
+  grid-template-rows: repeat(5, minmax(0, 1fr));
+}
+
+.receiverAxis {
+  grid-area: 2 / 3;
+  grid-template-rows: repeat(5, minmax(0, 1fr));
+}
+
+.receiverAxis > div,
+.axisKey {
+  position: relative;
+}
+
+.axisKey {
+  display: grid;
+  min-width: 0;
+  place-items: center;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  color: #bcc7bd;
+  font-size: .875rem;
+  font-weight: 800;
+}
+
+.axisKey:hover {
+  background: #2c342e;
+  color: #f3f7f3;
+}
+
+.axisKey[aria-pressed="true"] {
+  background: #39453b;
+  border-color: #79897a;
+  color: #f6fcf5;
+}
+
+.axisKey:focus-visible {
+  z-index: 3;
+  outline-color: var(--signal);
+  outline-offset: -3px;
+}
+
+.circuit {
+  isolation: isolate;
+  grid-area: 2 / 2;
+  aspect-ratio: 1;
+  grid-template: repeat(5, minmax(0, 1fr)) / repeat(5, minmax(0, 1fr));
+}
+
+.tile {
+  min-width: 0;
+  border-radius: 7px;
+  background: var(--panel);
+  color: #9faea0;
+}
+
+.tile[data-selected="true"] {
+  background: #303a32;
+  box-shadow: inset 0 0 0 1px #839486;
+}
+
+.tile[data-live="true"] {
+  position: relative;
+  z-index: 1;
+  color: var(--signal);
+  background: #35402c;
+}
+
+.tile svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: 3.6;
+}
+
+.tile[data-live="true"] svg {
+  filter: drop-shadow(0 0 3px #dcf58a60);
+}
+
+.sourcePort,
+.receiverPort,
+.legendSource,
+.legendReceiver {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  flex: none;
+  border: 2px solid #b8c2ba;
+  border-radius: 50%;
+  background: var(--cabinet);
+}
+
+.sourcePort,
+.receiverPort {
+  position: absolute;
+  top: 50%;
+  z-index: 2;
+  transform: translateY(-50%);
+}
+
+.sourcePort {
+  right: -8px;
+}
+
+.receiverPort {
+  left: -8px;
+}
+
+.sourcePort,
+.legendSource,
+.receiverPort[data-live="true"] {
+  border-color: var(--signal);
+  background: var(--signal);
+}
+
+.boardLegend {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 7px 24px;
+  padding-top: 13px;
+  font-size: .8rem;
+}
+
+.boardLegend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.sidebar {
+  display: grid;
+  gap: 14px;
+  min-width: 0;
+}
+
+.actionArea {
+  padding: 15px 18px 18px;
+}
+
+.status {
+  display: flex;
+  min-height: 25px;
+  align-items: center;
+  gap: 8px;
+  font-size: .94rem;
+  font-weight: 700;
+}
+
+.status svg {
+  color: var(--brand-ink);
+}
+
+.turnControls {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 11px;
+}
+
+.turnControls button {
+  min-height: 46px;
+  padding-inline: 6px;
+}
+
+.turnControls button[aria-disabled="true"] {
+  opacity: .52;
+  cursor: default;
+}
+
+.utilityControls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 9px;
+}
+
+.utilityControls > button {
+  min-height: 43px;
+}
+
+.utilityControls > button:last-child {
+  margin-left: auto;
+}
+
+.instructions {
+  padding: 20px 22px;
+}
+
+.instructions h2 {
+  font-size: 1.28rem;
+  letter-spacing: -.033em;
+}
+
+.instructions ol {
+  display: grid;
+  gap: 9px;
+  margin: 13px 0 18px;
+  padding-left: 19px;
+  color: var(--muted);
+}
+
+.instructions li::marker {
+  font-weight: 800;
+  color: var(--ink);
+}
+
+.keyboardGuide,
+.transcript {
+  border-top: 1px solid var(--line);
+  padding-top: 15px;
+}
+
+.keyboardGuide h3 {
+  font-size: 1rem;
+}
+
+.keyboardGuide dl {
+  display: grid;
+  gap: 9px;
+  margin: 10px 0 15px;
+}
+
+.keyboardGuide dl > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: .86rem;
+}
+
+.keyboardGuide dt {
+  color: var(--muted);
+}
+
+.keyboardGuide dd {
+  margin: 0;
+  font-weight: 700;
+}
+
+.keyboardGuide kbd {
+  padding: 2px 5px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--soft);
+}
+
+.transcript summary {
+  cursor: pointer;
+  font-weight: 750;
+}
+
+.transcript p,
+.transcript li {
+  color: var(--muted);
+  font-size: .9rem;
+}
+
+.transcript p {
+  margin-top: 9px;
+}
+
+.transcript ul {
+  padding-left: 18px;
+  margin-bottom: 0;
+}
+
+.transcript li + li {
+  margin-top: 6px;
+}
+
+@media (max-width: 710px) {
+  .layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 390px) {
+  .actionArea,
+  .stationBar {
+    padding-inline: 12px;
+  }
+
+  .utilityControls > button {
+    gap: 5px;
+    padding-inline: 8px;
+    font-size: .85rem;
+  }
+
+  .utilityControls > button:last-child {
+    margin-left: 0;
+  }
+}

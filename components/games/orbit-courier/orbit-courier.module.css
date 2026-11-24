@@ -1,0 +1,67 @@
+﻿.heading { margin-bottom: 25px; }
+.heading h1 { margin-bottom: 9px; font-size: clamp(2.4rem, 5.5vw, 4.4rem); letter-spacing: -.075em; }
+.heading p { color: var(--muted); font-size: 1.07rem; }
+.layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(238px, 286px); gap: clamp(16px, 2.4vw, 32px); align-items: start; }
+.console, .guide { border: 1px solid var(--line); border-radius: 19px; background: var(--surface); }
+.console { min-width: 0; }
+.hud { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); padding: 0; margin: 0; }
+.hud div { min-width: 0; padding: 12px 17px; }
+.hud div + div { border-left: 1px solid var(--line); }
+.hud dt { color: var(--muted); font-size: .8rem; font-weight: 650; }
+.hud dd { min-height: 27px; margin: 2px 0 0; align-content: center; font: 800 clamp(1.05rem, 2vw, 1.43rem)/1.15 var(--heading); letter-spacing: -.04em; font-variant-numeric: tabular-nums; }
+.integrity { display: flex; gap: 5px; }
+.integrity i { display: block; width: 10px; height: 12px; border-radius: 3px; border: 1px solid var(--muted); }
+.integrity .intact { background: var(--ink); border-color: var(--ink); }
+.stage { position: relative; isolation: isolate; height: clamp(315px, 41vw, 498px); min-width: 0; background: #151515; color: #f4f4f4; }
+.stage:focus { outline: none; }
+.stage:focus-visible { z-index: 1; outline: 2px solid #a9c6ef; outline-offset: -2px; }
+.renderHost { position: absolute; inset: 0; touch-action: pan-y; overflow: hidden; }
+.renderHost canvas { display: block; width: 100%; height: 100%; }
+.stageLane, .renderMode { position: absolute; top: 16px; padding: 5px 8px; border: 1px solid #474747; border-radius: 6px; background: #151515; font-size: .8rem; color: #d0d0d0; }
+.stageLane { left: 17px; display: inline-flex; align-items: center; gap: 6px; }
+.renderMode { right: 17px; }
+.incomingCue { position: absolute; bottom: 17px; left: 17px; display: inline-flex; align-items: center; gap: 7px; padding: 5px 8px; border: 1px solid #474747; border-radius: 6px; background: #151515; color: #e3e3e3; font-size: .8rem; pointer-events: none; }
+.incomingCue svg { color: #a9c6ef; }
+.overlay { position: absolute; left: 17px; bottom: 17px; display: grid; justify-items: start; gap: 9px; max-width: min(300px, calc(100% - 34px)); padding: 12px; border: 1px solid #474747; border-radius: 11px; background: #232323; }
+.overlay h2 { font-size: 1.2rem; }
+.overlay p { color: #d5d5d5; font-size: .89rem; }
+.start { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 43px; border-radius: 7px; padding: 8px 12px; border: 1px solid #a9c6ef; background: #a9c6ef; color: #192433; font-weight: 800; }
+.start:hover { background: #c2d8f6; }
+.start:focus-visible { outline-color: #d7e9ff; }
+.controls { min-height: 66px; padding: 10px 13px; display: flex; justify-content: space-between; gap: 8px; }
+.steering, .commands { display: flex; gap: 7px; }
+.iconButton { width: 44px; padding-inline: 0; }
+.guide { padding: 19px; color: var(--muted); }
+.guide h2 { margin-bottom: 7px; color: var(--ink); font-size: 1.12rem; letter-spacing: -.025em; }
+.guide p, .rules { font-size: .93rem; }
+.guide kbd { min-width: 20px; display: inline-grid; place-items: center; padding: 0 3px; border: 1px solid var(--line); border-radius: 4px; background: var(--bg); color: var(--ink); font: 650 .85em/1.5 var(--body); }
+.next { padding: 12px; margin-bottom: 18px; border: 1px solid var(--line); border-radius: 10px; background: var(--soft); }
+.next p { font-size: .89rem; }
+.lanes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 4px; padding: 0; margin: 9px 0 0; list-style: none; }
+.lanes li { display: grid; justify-items: center; border: 1px solid var(--line); border-radius: 5px; padding: 4px 1px; background: var(--surface); color: var(--muted); font-size: .75rem; }
+.lanes strong { color: var(--ink); }
+.lanes [data-cell="cargo"] { background: #a9c6ef; border-color: #a9c6ef; color: #202b3c; }
+.lanes [data-cell="cargo"] strong { color: #172335; }
+.rules { display: grid; padding: 0; margin: 14px 0 0; gap: 11px; list-style: none; }
+.rules li { display: flex; align-items: start; gap: 8px; }
+.rules svg { margin-top: 3px; color: var(--ink); }
+.rules strong { color: var(--ink); }
+.controlHint { display: inline-flex; gap: 6px; align-items: center; margin-top: 16px; color: var(--muted); font-size: .8rem; }
+
+@media (max-width: 790px) {
+  .layout { grid-template-columns: minmax(0, 1fr); }
+  .stage { height: clamp(288px, 62vw, 446px); }
+  .guide { padding: 16px; }
+}
+
+@media (max-width: 460px) {
+  .hud div { padding: 9px; }
+  .controls { padding-inline: 7px; }
+  .steering, .commands { gap: 4px; }
+  .steering button { gap: 4px; padding-inline: 6px; font-size: .8rem; }
+  .iconButton { width: 38px; }
+  .stageLane { left: 9px; top: 9px; }
+  .renderMode { right: 9px; top: 9px; }
+  .overlay { bottom: 9px; left: 9px; }
+  .incomingCue { bottom: 9px; left: 9px; }
+}
